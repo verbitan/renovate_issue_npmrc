@@ -1,4 +1,4 @@
-# 47344
+# 47360
 
 ## Current behavior
 
@@ -19,4 +19,4 @@ https://docs.renovatebot.com/getting-started/private-packages/#npm
 
 ## Link to the Renovate issue or Discussion
 
-https://github.com/renovatebot/renovate/discussions/47344
+https://github.com/renovatebot/renovate/discussions/47360
